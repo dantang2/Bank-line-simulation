@@ -1,4 +1,14 @@
-//test driver
+/* SimulationApp.cpp
+*
+* Class Description: Simulate test cases
+* Class Invariant:
+*
+*
+* Last Modified on: July 4th 2-17
+* Author: Dan Tang(301256468)
+*
+*
+*/
 
 #include <iostream>
 #include <cstring>
