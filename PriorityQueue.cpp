@@ -1,4 +1,14 @@
-//PriorityQueue.cpp
+/*PriorityQueue.cpp
+*
+* Class Description: Manages customer's in the bank line, using a priority queue
+* Class Invariant:
+*
+*
+* Last Modified on: July 4th 2-17
+* Author: Dan Tang(301256468)
+*
+*
+*/
 
 #include "PriorityQueue.h"
 #include <iostream>
